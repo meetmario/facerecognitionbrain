@@ -1,4 +1,12 @@
+###SMARTBRAIN - Facedetection App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Goal with this project
+
+This is part of a Udemy Course and me getting my hands dirty building an App with React for the front end. Nodejs and express for the back end. postgreSQL for the database. deployed on Heroku.
+
+It also uses the clarifai API (https://www.clarifai.com/) for the face recognition.
 
 ## Available Scripts
 
