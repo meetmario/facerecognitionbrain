@@ -11,7 +11,7 @@ import Register from './components/Register/Register';
 import './App.css';
 
 const app = new Clarifai.App({
-  apiKey: 'Skriv in din nyckel här' /*skriv clarifai nyckel här */
+  apiKey: 'write clarifai api key code here' /*skriv clarifai nyckel här */
  });
 
 const particlesOptions = {
