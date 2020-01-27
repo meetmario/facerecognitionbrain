@@ -1,0 +1,20 @@
+.Tilt {
+    background: linear-gradient(89deg, #00d2ff 0%, #3a7bd5 100%); /* w3c */
+}
+
+@media screen and (max-width: 680px) {
+    .logo {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-flex-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+        justify-content: center;
+        max-width: 10rem;
+        max-height: auto;
+    }
+}
